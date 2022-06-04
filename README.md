@@ -1,7 +1,8 @@
 # nuxt-trello
 
 ## Build Setup
-
+email:qwe@mail.ru
+password:qweqwe
 ```bash
 # install dependencies
 $ npm install
